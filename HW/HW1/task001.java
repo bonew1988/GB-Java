@@ -5,6 +5,9 @@ import java.util.Scanner;
 
 
 public class task001 {
+    /**
+     * вычисление треугольного n числа
+     */
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
             int n = 0;
