@@ -1,6 +1,6 @@
 // Дан массив чисел, требуется получить новую выборку (массив) только четных чисел
 // Мой код:
-// test kubutu pushing
+// test kubutu pushing!!!
 
 package seminars.seminar1;
 
