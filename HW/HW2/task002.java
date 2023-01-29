@@ -1,17 +1,34 @@
 package HW.HW2;
 
-import java.io.*;
-import java.util.*;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Scanner;
 
 public class task002 {
+    /**
+     * +Реализовать функцию возведения числа а в степень b. a, b ∈ Z. Сводя количество выполняемых действий к минимуму. 
+Пример 1: а = 3, b = 2, ответ: 9 
+Пример 2: а = 2, b = -2, ответ: 0.25
+Пример 3: а = 3, b = 0, ответ: 1
+Пример 4: а = 0, b = 0, ответ: не определено
+Пример 5
+входные данные находятся в файле input.txt в виде
+b 3
+a 10
+Результат нужно сохранить в файле output.txt
+1000
+     */
     public static void main(String[] args) {
         try {
             Scanner sc = new Scanner(new File("HW/HW2/input.txt"));
             sc.useDelimiter("\\s+");
             String aStr = sc.next();
-            double a = Integer.parseInt(aStr.substring(aStr.indexOf(":") + 1));
+            double a = Double.parseDouble(aStr.substring(aStr.indexOf(":") + 1));
             String bStr = sc.next();
-            double b = Integer.parseInt(bStr.substring(bStr.indexOf(":") + 1));
+            double b = Double.parseDouble(bStr.substring(bStr.indexOf(":") + 1));
             sc.close();
 
             double result = Math.pow(a, b);
