@@ -40,7 +40,7 @@ public class task003 {
                     inputError = false;
 
                     int result = countPaths(q, w, z);
-                    System.out.println(result);
+                    System.out.println("Количество маршрутов: " + result);
 
                 } catch (InputMismatchException e) {
                     System.out.println("Некорректный ввод!");
