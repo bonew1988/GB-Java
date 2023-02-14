@@ -1,6 +1,6 @@
-package OOP;
+package OOP_my;
 
-import OOP.Units.Villager;
+import OOP_my.unit.Villager;
 
 public class Game {
     public static void main(String[] args) {
