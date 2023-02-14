@@ -1,12 +1,13 @@
-package Game;
-import Game.Heroes.Archer;
-import Game.Heroes.Crossbowman;
-import Game.Heroes.Mag;
-import Game.Heroes.Monk;
-import Game.Heroes.Peasant;
-import Game.Heroes.Pikeman;
-import Game.Heroes.Robber;
-import Game.Heroes.Sniper;
+package OOP_group;
+
+import OOP_group.Heroes.Archer;
+import OOP_group.Heroes.Crossbowman;
+import OOP_group.Heroes.Mag;
+import OOP_group.Heroes.Monk;
+import OOP_group.Heroes.Peasant;
+import OOP_group.Heroes.Pikeman;
+import OOP_group.Heroes.Robber;
+import OOP_group.Heroes.Sniper;
 
 public class Main {
     public static void main(String[] args) throws Exception {

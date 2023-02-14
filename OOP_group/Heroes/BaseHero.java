@@ -1,4 +1,4 @@
-package Game.Heroes;
+package OOP_group.Heroes;
 
 public abstract class BaseHero {
     
