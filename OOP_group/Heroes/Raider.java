@@ -1,16 +1,14 @@
 package Heroes;
 
-/**Монах*/
-public class Monk extends Priest {
+public class Raider extends Warrior {
 
-    public Monk(){
-        super("Monk______", "Polit", 30, 5, 0, -4, 1,
-         12, 7);
+    public Raider(){
+        super("Raider____", "Piter", 10, 6, 4, 2, 8, 3, 0);
         
     }
 
     /**Переопределить getInfo так, чтобы он возвращал строки:"Я крестьянин", "Я снайпер"  */
     @Override
-    public String getInfo() { return "Я Монах ";}
+    public String getInfo() { return "Я Разбойник";}
 
 }
