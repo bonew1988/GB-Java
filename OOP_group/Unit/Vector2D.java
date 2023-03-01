@@ -1,6 +1,5 @@
 package Unit;
 
-
 public class Vector2D {
     protected int posX;
     protected int posY;
@@ -10,8 +9,11 @@ public class Vector2D {
         this.posY = posY;
     }
 
+    protected boolean isLeft(Vector2D oponent){
+        return posX < oponent.posX;
+    }
+
     protected double getDistance(Vector2D oponent){
         return Math.sqrt(Math.pow(posX - oponent.posX,2) + Math.pow(posY - oponent.posY,2));
     }
-
 }

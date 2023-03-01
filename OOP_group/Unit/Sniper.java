@@ -1,7 +1,6 @@
 package Unit;
 
 public class Sniper extends Shooter{
-
     public Sniper(String name, Vector2D coords) {
         super(name, 60.f, 60, 10, 3, 5, 3,
                 9, 22, 10, coords.posX, coords.posY);
