@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="820e0131-f0b1-43e1-a789-71466195b884" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup/units/Archer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup/units/Attacking_class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup/units/Bandit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup/units/BaseHero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup/units/Crossbowman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup/units/GameInterfase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup/units/Mag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup/units/Magician.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup/units/Monk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup/units/Names.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup/units/Peasant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup/units/Pikeman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup/units/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup/units/Sniper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup_ALL/Unit/Bandit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup_ALL/Unit/Crossbowman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup_ALL/Unit/Farmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup_ALL/Unit/GameInterfase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup_ALL/Unit/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup_ALL/Unit/Mag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup_ALL/Unit/Monk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup_ALL/Unit/Names.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup_ALL/Unit/Shooter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup_ALL/Unit/Sniper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup_ALL/Unit/Spearman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup_ALL/Unit/Vector2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup_ALL/Unit/Warrior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup_ALL/Unit/Witch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_FirstGroup_ALL/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_group/Unit/Vector2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_group/Unit/Vector2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_group/Unit/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_group/Unit/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_my/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_my/unit/Bandit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_my/unit/Crossbowman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_my/unit/Heroes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_my/unit/Pikeman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_my/unit/Priest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_my/unit/Sniper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_my/unit/Villager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_my/unit/Warlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_old/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_old/unit/Arbalester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_old/unit/BaseHero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_old/unit/Magician.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_old/unit/Monarch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_old/unit/Priest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_old/unit/Raider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_old/unit/Shooter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_old/unit/Sniper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_old/unit/Spearman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_old/unit/Villager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_old/unit/Warrior.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Mf2a9PNZTW3NlagNGFwtAikmeD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="820e0131-f0b1-43e1-a789-71466195b884" name="Changes" comment="" />
+      <created>1678144376806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678144376806</updated>
+    </task>
+    <servers />
+  </component>
+</project>
